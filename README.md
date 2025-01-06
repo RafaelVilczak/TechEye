@@ -25,7 +25,7 @@ A necessidade e inspiração para o desenvolvimento da *TechnoLogic* surge a par
 A *TechnoLogic* surge como a solução para esse problema. Com ele, você terá uma visão completa, organizada e segura de todos os seus ativos, desde servidores até licenças de software.
 
 ## Teste de UX
-É possível realizar o teste e ter uma visão do site no link a seguir: 
+É possível realizar o teste e ter uma visão do site no link a seguir:
 [Teste UX](https://app.quant-ux.com/#/test.html?h=a2aa10aLD1NtRSWw6z3GqP9SZ1oJe2UyHszPpFbBANJqW0F1BCaAQG7jBczC&ln=pt)
 
 <br><br>
