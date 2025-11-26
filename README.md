@@ -59,10 +59,9 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 
 Este repositório está licenciado sob a licença Creative Commons - Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
 
-* Isso permite: Visualizar, estudar e compartilhar o conteúdo.
+* Permitido: Visualizar, estudar e compartilhar o conteúdo.
 
-* isso não permite: Copiar, vender ou utilizar comercialmente este material sem autorização prévia.
+* Não permitido: Copiar, vender ou utilizar comercialmente este material sem autorização prévia.
 
 Para mais detalhes, acesse:
-
 [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/deed.pt)
