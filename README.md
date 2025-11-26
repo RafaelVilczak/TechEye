@@ -34,13 +34,11 @@ A *TechEye* surge como a solução para esse problema. Com ele, você terá uma 
 
 [Teste UX](https://app.quant-ux.com/#/test.html?h=a2aa10aLD1NtRSWw6z3GqP9SZ1oJe2UyHszPpFbBANJqW0F1BCaAQG7jBczC&ln=pt)
 
-<br><br>
+<br>
 
 ### Saiba mais sobre:
 
 [IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/) 
-
-<br>
 
 <img width="353" height="151" alt="IFPR" src="https://github.com/user-attachments/assets/3b87914e-52b6-49cb-91d0-098a00ab39a5" />
 
