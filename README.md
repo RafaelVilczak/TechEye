@@ -53,3 +53,15 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 
 <img width="353" height="151" alt="IFPR" src="https://github.com/user-attachments/assets/3b87914e-52b6-49cb-91d0-098a00ab39a5" />
 
+<br>
+
+## Licença do Projeto:
+
+Este repositório está licenciado sob a licença Creative Commons - Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+* Isso permite: Visualizar, estudar e compartilhar o conteúdo.
+
+* isso não permite: Copiar, vender ou utilizar comercialmente este material sem autorização prévia.
+
+Para mais detalhes sobre a licença, acesse:
+https://creativecommons.org/licenses/by-nc/4.0/deed.pt
