@@ -63,5 +63,6 @@ Este repositório está licenciado sob a licença Creative Commons - Atribuiçã
 
 * isso não permite: Copiar, vender ou utilizar comercialmente este material sem autorização prévia.
 
-Para mais detalhes sobre a licença, acesse:
-https://creativecommons.org/licenses/by-nc/4.0/deed.pt
+Para mais detalhes, acesse:
+
+[Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/deed.pt)
