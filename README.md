@@ -14,11 +14,25 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 ## Visão Geral
 A **TechEye** é uma aplicação *web* completa e intuitiva, projetada para otimizar o gerenciamento de ativos de tecnologia da informação em pequenas e médias empresa. Com base nas ODS 8 e 9 da ONU, *"Trabalho Decente e Crescimento Econômico"* e *"Indústria, Inovação e Infraestrutura"*, o projeto busca democratizar o acesso a soluções de gestão tecnológica, entregando automação, clareza e praticidade em um ambiente intuitivo e profissional.
 
-## Objetivos
-O avanço contínuo da modernização e as diversas tecnologias que surgem a cada dia beneficiam muito a forma que as empresas gerenciam seus recursos e atendem às necessidades impostas por seus clientes, utilizando-se da automação ou simplificações trazidas pelo crescimento tecnológico em seu dia-a-dia.
+## Concepção do Projeto
+### Objetivo
+Oferecer uma plataforma online que simplifique o gerenciamento e a manutenção de ativos de TI, permitindo que empresas organizem seus equipamentos, registrem manutenções, acompanhem ciclos de vida e tomem decisões estratégicas com maior precisão e agilidade.
 
-O objetivo da **TechEye** é garantir que a gestão desses equipamentos e tecnologias seja acessível a maioria das empresas e profissionais que necessitam desse cuidado adicional com seus ativos e muitas vezes não possuem uma opção acessível ou viável para a utilização. 
-
+### Escopo do Produto
+* Produto: Aplicação Web baseada em nuvem (com possibilidade de versão mobile no futuro)
+* Principais Entregas:
+  * Cadastro, edição e acompanhamento de ativos de TI
+  * Alertas automatizados para prazos e vencimentos
+  * Gestão de planos e assinaturas
+  * Acesso multiusuário com níveis de permissão
+  * Registro de manutenções preventivas e corretivas
+  * Painel de indicadores e relatórios
+* Critérios de Aceite:
+  * Registrar um ativo completo em no máximo 3 etapas
+  * Disponibilidade mínima de 99% cento durante o horário comercial
+  * Taxa de falhas inferior a 5% cento nas operações essenciais
+  * Geração de relatório em menos de 5 segundos em condições normais
+    
 ## Justificativa
 O caos da gestão de ativos de TI é um problema real para muitas empresas. A falta de controle sobre equipamentos, softwares e contratos gera ineficiência, custos elevados e riscos à segurança da informação.
 
