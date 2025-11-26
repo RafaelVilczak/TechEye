@@ -12,7 +12,7 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 * Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Visão Geral
-A **TechEye** é uma aplicação *web* completa e intuitiva, projetada para otimizar o gerenciamento de ativos de tecnologia da informação em sua empresa. Com base nas ODS 8 e 9 da ONU, *"Trabalho Decente e Crescimento Econômico"* e *"Indústria, Inovação e Infraestrutura"*, o projeto busca democratizar o acesso a soluções de gestão tecnológica, entregando automação, clareza e praticidade em um ambiente intuitivo e profissional.
+A **TechEye** é uma aplicação *web* completa e intuitiva, projetada para otimizar o gerenciamento de ativos de tecnologia da informação em pequenas e médias empresa. Com base nas ODS 8 e 9 da ONU, *"Trabalho Decente e Crescimento Econômico"* e *"Indústria, Inovação e Infraestrutura"*, o projeto busca democratizar o acesso a soluções de gestão tecnológica, entregando automação, clareza e praticidade em um ambiente intuitivo e profissional.
 
 ## Objetivos
 O avanço contínuo da modernização e as diversas tecnologias que surgem a cada dia beneficiam muito a forma que as empresas gerenciam seus recursos e atendem às necessidades impostas por seus clientes, utilizando-se da automação ou simplificações trazidas pelo crescimento tecnológico em seu dia-a-dia.
