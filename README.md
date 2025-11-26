@@ -8,6 +8,7 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 * Rafael Vilczak dos Santos
 
 ## Orientadora
+* Profª. Dra. Eliana Maria dos Santos
 * Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Introdução
