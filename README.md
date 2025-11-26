@@ -1,6 +1,6 @@
 # TechEye
 
-![Logo TechEye](https://github.com/user-attachments/assets/feb5a191-e225-4e91-b1b6-239e658f9eb7)
+![Logo TechEye Color](https://github.com/user-attachments/assets/e6a522ae-1dcb-4d02-a311-777e0bcc26b4)
 
 Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da Informação](https://github.com/gti-ifpr) do Instituto Federal do Paraná (IFPR) - *Campus* Pinhais.
 
