@@ -38,8 +38,9 @@ A *TechEye* surge como a solução para esse problema. Com ele, você terá uma 
 
 ### Saiba mais sobre:
 
-
+[IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/) 
 
 <br>
-[IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
+
+<img width="353" height="151" alt="IFPR" src="https://github.com/user-attachments/assets/3b87914e-52b6-49cb-91d0-098a00ab39a5" />
 
