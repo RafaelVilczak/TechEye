@@ -37,6 +37,15 @@ A necessidade e inspiração para o desenvolvimento da **TechEye** surge a parti
 
 A **TechEye** surge como a solução para esse problema. Com ele, você terá uma visão completa, organizada e segura de todos os seus ativos, desde servidores até licenças de software.
 
+## Tecnologias Utilizadas
+* Frontend: React Native
+* Backend: Node.js
+* Banco de Dados: MySQL
+* Prototipagem: QuantUX
+* Gestão e Versionamento: GitHub
+* Ferramenta de Desenvolvimento: Vite
+* Ferramenta de Testes: Vitest
+
 ## Teste de UX
 É possível realizar o teste e ter uma visão do site no link a seguir:
 
