@@ -23,15 +23,12 @@ Oferecer uma plataforma online que simplifique o gerenciamento e a manutenção 
 * Principais Entregas:
   * Cadastro, edição e acompanhamento de ativos de TI
   * Alertas automatizados para prazos e vencimentos
-  * Gestão de planos e assinaturas
-  * Acesso multiusuário com níveis de permissão
-  * Registro de manutenções preventivas e corretivas
-  * Painel de indicadores e relatórios
+  * Gestão de manutenções preventivas e corretivas
+  * Painel de indicadores
 * Critérios de Aceite:
   * Registrar um ativo completo em no máximo 3 etapas
   * Disponibilidade mínima de 99% cento durante o horário comercial
   * Taxa de falhas inferior a 5% cento nas operações essenciais
-  * Geração de relatório em menos de 5 segundos em condições normais
     
 ## Justificativa
 O caos da gestão de ativos de TI é um problema real para muitas empresas. A falta de controle sobre equipamentos, softwares e contratos gera ineficiência, custos elevados e riscos à segurança da informação.
@@ -44,6 +41,11 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 É possível realizar o teste e ter uma visão do site no link a seguir:
 
 [Teste UX](https://app.quant-ux.com/#/test.html?h=a2aa10aLD1NtRSWw6z3GqP9SZ1oJe2UyHszPpFbBANJqW0F1BCaAQG7jBczC&ln=pt)
+
+## Site
+O site está acessivel para testes de usabilidade no link abaixo:
+
+[Site TechEye](https://app.rafaelvilczak.site/)
 
 <br>
 
