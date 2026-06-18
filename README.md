@@ -7,9 +7,10 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 ## Equipe
 * Rafael Vilczak dos Santos
 
-## Orientadora
+## Orientadores
 * Profª. Dra. Eliana Maria dos Santos
 * Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
+* Profº. Dr. [William Simao de Deus](https://www.williamsd.com.br/)
 
 ## Visão Geral
 A **TechEye** é uma aplicação *web* completa e intuitiva, projetada para otimizar o gerenciamento de ativos de tecnologia da informação em pequenas e médias empresa. Com base nas ODS 8 e 9 da ONU, *"Trabalho Decente e Crescimento Econômico"* e *"Indústria, Inovação e Infraestrutura"*, o projeto busca democratizar o acesso a soluções de gestão tecnológica, entregando automação, clareza e praticidade em um ambiente intuitivo e profissional.
