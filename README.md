@@ -21,14 +21,18 @@ Oferecer uma plataforma online que simplifique o gerenciamento e a manutenção 
 ### Escopo do Produto
 * Produto: Aplicação Web baseada em nuvem (com possibilidade de versão mobile no futuro)
 * Principais Entregas:
-  * Cadastro, edição e acompanhamento de ativos de TI
-  * Alertas automatizados para prazos e vencimentos
+  * MVP funcional em React e Node.js
+  * CRUD de Ativos de TI
+  * Alertas automatizados para vencimentos
   * Gestão de manutenções preventivas e corretivas
+  * Integração com MySQL
   * Painel de indicadores
 * Critérios de Aceite:
+  * Cadastro e Login funcionando corretamente
   * Registrar um ativo completo em no máximo 3 etapas
-  * Disponibilidade mínima de 99% cento durante o horário comercial
-  * Taxa de falhas inferior a 5% cento nas operações essenciais
+  * Dados de indicadores completos e sem erros
+  * Site registra corretamente todos os dados de ativos e manutenções
+  * Dados cadastrados são exibidos corretamente
     
 ## Justificativa
 O caos da gestão de ativos de TI é um problema real para muitas empresas. A falta de controle sobre equipamentos, softwares e contratos gera ineficiência, custos elevados e riscos à segurança da informação.
@@ -43,8 +47,18 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 * Banco de Dados: MySQL
 * Prototipagem: QuantUX
 * Gestão e Versionamento: GitHub
-* Ferramenta de Desenvolvimento: Vite
+* Ferramenta de Desenvolvimento: VS Code e Vite
 * Ferramenta de Testes: Vitest
+* Host: Cloudflare Tunnel
+
+## Funcionalidades
+* Cadastro e Login de Usuário
+* CRUD de Ativos
+* Gerenciamento de Manutenções
+* Acompanhamento de etapas de manutenções
+* Dashboard com dados gerais cadastrados
+* Graficos com filtros de dados
+* Alertas de Equipamentos Inativos e Vencimentos de Licenças
 
 ## Teste de UX
 É possível realizar o teste e ter uma visão do site no link a seguir:
