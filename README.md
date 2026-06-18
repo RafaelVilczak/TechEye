@@ -50,7 +50,7 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 * Gestão e Versionamento: GitHub
 * Ferramenta de Desenvolvimento: VS Code e Vite
 * Ferramenta de Testes: Vitest
-* Host: Cloudflare Tunnel
+* Host: Cloudflare
 
 ## Funcionalidades
 * Cadastro e Login de Usuário
