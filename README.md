@@ -57,8 +57,8 @@ A **TechEye** surge como a solução para esse problema. Com ele, você terá um
 * Gerenciamento de Manutenções
 * Acompanhamento de etapas de manutenções
 * Dashboard com dados gerais cadastrados
-* Graficos com filtros de dados
-* Alertas de Equipamentos Inativos e Vencimentos de Licenças
+* Graficos e Filtros de dados
+* Alertas para Equipamentos Inativos e Vencimentos de Licenças
 
 ## Teste de UX
 É possível realizar o teste e ter uma visão do site no link a seguir:
